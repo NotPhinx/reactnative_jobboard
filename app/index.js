@@ -27,6 +27,8 @@ const Home = () => {
           ),
           headerTitle: "",
         }}
+
+
       />
 
       <ScrollView showsVerticalScrollIndicator = {false}>
