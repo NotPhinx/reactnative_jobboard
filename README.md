@@ -1,6 +1,6 @@
 # Job Board Application
 
-This is a Job Board application built using React Native and Ergo.
+This is a Job Board application built using React Native and Ergo and jsearch from rapidapi.
 
 ## 🚀 How to use
 
